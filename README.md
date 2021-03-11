@@ -5,6 +5,9 @@ src="https://www.flaticon.com/svg/vstatic/svg/2301/2301129.svg?token=exp=1615472
 
 <a href="https://www.linkedin.com/in/ogaspaas/" target="_blank"><img align="left" alt="Odd Gunnar Aspaas | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1051/1051384.svg?token=exp=1615472870~hmac=293d0733acd2f337241157a951bc7f01" />
 
+<a href="https://www.facebook.com/oddaspa" target="_blank"><img align="left" alt="ogaspaas.com" width="22px" 
+src="https://www.flaticon.com/svg/vstatic/svg/1051/1051360.svg?token=exp=1615472870~hmac=91b0bf9baf28ad4afd642d430980f7f8" /></a>
+
 <a href="https://instagram.com/ogaspaas" target="_blank"><img align="left" alt="Odd Gunnar Aspaas | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1051/1051364.svg?token=exp=1615472913~hmac=cd97a55088683dfa4980d168ce4ee508" />
 </br>
 
