@@ -1,14 +1,14 @@
 ![Profile views](https://gpvc.arturio.dev/oddaspa)
 
 <a href="https://ogaspaas.com" target="_blank"><img align="left" alt="ogaspaas.com" width="22px" 
-src="https://www.flaticon.com/svg/vstatic/svg/2301/2301129.svg?token=exp=1615472686~hmac=63a9e8c916f916b97dea3858a9cbe7ac" /></a>
+src="https://img.icons8.com/android/452/link.png" /></a>
 
-<a href="https://www.linkedin.com/in/ogaspaas/" target="_blank"><img align="left" alt="Odd Gunnar Aspaas | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1051/1051384.svg?token=exp=1615472870~hmac=293d0733acd2f337241157a951bc7f01" />
+<a href="https://www.linkedin.com/in/ogaspaas/" target="_blank"><img align="left" alt="Odd Gunnar Aspaas | LinkedIn" width="22px" src="https://img.icons8.com/android/452/linkedin.png" />
 
 <a href="https://www.facebook.com/oddaspa" target="_blank"><img align="left" alt="ogaspaas.com" width="22px" 
-src="https://www.flaticon.com/svg/vstatic/svg/1051/1051360.svg?token=exp=1615472870~hmac=91b0bf9baf28ad4afd642d430980f7f8" /></a>
+src="https://img.icons8.com/android/452/facebook-new.png" /></a>
 
-<a href="https://instagram.com/ogaspaas" target="_blank"><img align="left" alt="Odd Gunnar Aspaas | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1051/1051364.svg?token=exp=1615472913~hmac=cd97a55088683dfa4980d168ce4ee508" />
+<a href="https://instagram.com/ogaspaas" target="_blank"><img align="left" alt="Odd Gunnar Aspaas | Instagram" width="22px" src="https://img.icons8.com/material-rounded/452/instagram-new.png" />
 </br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
